@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.todolist.MainActivity">
+    <item
+        android:id="@+id/SortName"
+        android:title="Sort by name" />
+    <item
+        android:id="@+id/SortDate"
+        android:title="Sort by date" />
+</menu>
